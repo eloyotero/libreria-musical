@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Artists from "./pages/Artists";
-import ArtistDetail from "./pages/ArtistDetail";
-import NotFound from "./pages/NotFound";
+import Home from "./components/Home";
+import Artists from "./components/Artists";
+import ArtistDetail from "./components/ArtistDetail";
+import NotFound from "./components/NotFound";
 import Navbar from "./components/Navbar";
 
 function App() {
